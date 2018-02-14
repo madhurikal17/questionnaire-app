@@ -1,0 +1,52 @@
+.btnCls{
+    padding: 25px 60px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+.containerCls{
+    width:80%;
+    margin:20px;
+    height:340px;
+    border:1px solid #a9a9a9;
+    border-radius:5px;
+    margin:0 auto;
+}
+.btnContainer{
+    align-content: center;
+}
+.headingCls{
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+}
+.questionCls{
+    margin: 20px 88px;
+    text-align: center;
+}
+.looperDivCls{
+    margin:0 auto;
+}
+.backBtnCls{
+    height:26px;
+    position:relative;
+    top:20px; 
+    left:30px;
+}
+.wizardCls
+{
+    float: right;
+    margin-right: 20px;
+    font-size: 13px;  
+}
+.hiddenCls{
+    display:none;
+}
+.surveySectionCls{
+    position:relative;
+    top:30px;
+}
+.resultsCls{
+    text-align:center;
+}
